@@ -1,6 +1,6 @@
 ![11](https://github.com/shellar1522/cex-crypto-exchange/assets/125349687/00c66ca8-9631-46a4-b801-7ea9fba7fdfa)
 
-# 🔗CEX Crypto Exchange with adaptive UX/UI Design
+# CEX Crypto Exchange with adaptive UX/UI Design
 Contact me: https://t.me/st_code Demo Available
 
 # 🔗Main Features
