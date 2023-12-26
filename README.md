@@ -1,7 +1,7 @@
 ![11](https://github.com/shellar1522/cex-crypto-exchange/assets/125349687/00c66ca8-9631-46a4-b801-7ea9fba7fdfa)
 
 # CEX Crypto Exchange with adaptive UX/UI Design
-Contact me: https://t.me/st_code Demo Available
+# Contact me: https://t.me/st_code Demo Available
 
 # 🔗Main Features
 - Automatic address generation for each user
@@ -115,7 +115,7 @@ ID, Email, Username, Password, Users, Deposits, Registered, Domains, Edit (chang
 - KYC Request: kyc (data, addresses, photos of documents) sent by the user for KYC verification
 - KYC can be accepted or rejected
 
-Contact me: https://t.me/st_code Demo Available
+# Contact me: https://t.me/st_code Demo Available
 
 # 📸Screenshots (Desktop)
   
@@ -131,7 +131,7 @@ Contact me: https://t.me/st_code Demo Available
 # Sign In
 ![66](https://github.com/shellar1522/cex-crypto-exchange/assets/125349687/ccf07662-987c-4db1-9ca6-ea2615ff0455)
 
-Contact me: https://t.me/st_code Demo Available
+# Contact me: https://t.me/st_code Demo Available
 
 # Requirements
 Ubuntu Server (minimum version: 18.04)
