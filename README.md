@@ -4,9 +4,9 @@
 # Contact me: https://t.me/st_code Demo Available
 
 # 🔗Main Features
-- Automatic address generation for each user
+- Automatic address generation for each user.
 - Automatic verification of deposits to addresses
-- Fake output: verification/pending/confirmed error (vorker customizes for each user)
+- Fake output: verification/pending/confirmed error (worker customizes for each user).
 - Support
 - Spot Trading
 - Staking
