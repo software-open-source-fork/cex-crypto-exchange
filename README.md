@@ -10,7 +10,7 @@
 - Support
 - Spot Trading
 - Staking
-- Swap
+- Swap.
 - Transfers
 - P2P
 - Passing verification (KYC)
