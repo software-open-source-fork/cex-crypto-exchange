@@ -14,7 +14,7 @@
 - Transfers
 - P2P
 - Passing verification (KYC)
-- Two-factor authorization (Google Authenticator)
+- Two-factor authorization (Google Authenticator).
 - Filling in data/setting an avatar.
 
 # 💰How deposits are withdrawn
