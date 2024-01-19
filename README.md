@@ -11,7 +11,7 @@
 - Spot Trading
 - Staking
 - Swap.
-- Transfers
+- Transfers.
 - P2P
 - Passing verification (KYC)
 - Two-factor authorization (Google Authenticator).
