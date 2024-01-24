@@ -151,7 +151,7 @@ Ubuntu Server (minimum version: 18.04)
 <details>
   <summary>🏷️Tags (Ignore)</summary>
   
-crypto bitcoin trading cryptocurrency cryptocurrencies crypto-exchanges crypto-exchange cryptocurrency-exchanges ico-contracts cryptocurrency-exchange crypto-trading cryptotrading cryptoexchange bitcoin-trading cryptocurrency-exchange-software cryptocurrency-exchange-script binance-clone exchange-script bep20-script honeypot-smart-contract
+crypto bitcoin trading cryptocurrency cryptocurrencies crypto-exchanges crypto-exchange cryptocurrency-exchanges ico-contracts cryptocurrency-exchange crypto-trading cryptotrading cryptoexchange bitcoin-trading cryptocurrency-exchange-software cryptocurrency-exchange-script binance-clone exchange-script bep20-script honeypot-smart-contract fake crypto exchange
 </details>
 
 # My Skills 
