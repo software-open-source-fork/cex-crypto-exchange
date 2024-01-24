@@ -1,6 +1,14 @@
 ![11](https://github.com/shellar1522/cex-crypto-exchange/assets/125349687/00c66ca8-9631-46a4-b801-7ea9fba7fdfa)
 
 # CEX Crypto Exchange with adaptive UX/UI Design
+# Demo Credentials  
+Partner Panel: 
+
+Email: partner@gmail.com
+Password: PartnerPanel24
+
+Admin panel: 
+PM me for demo access
 # Contact me: https://t.me/st_code Demo Available
 
 
