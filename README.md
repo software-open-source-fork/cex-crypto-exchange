@@ -148,11 +148,10 @@ Ubuntu Server (minimum version: 18.04)
 - mysql-server
 - node js 16.0.0
 
-<details>
-  <summary>🏷️Tags (Ignore)</summary>
+🏷️Tags (Ignore)
   
 crypto bitcoin trading cryptocurrency cryptocurrencies crypto-exchanges crypto-exchange cryptocurrency-exchanges ico-contracts cryptocurrency-exchange crypto-trading cryptotrading cryptoexchange bitcoin-trading cryptocurrency-exchange-software cryptocurrency-exchange-script binance-clone exchange-script bep20-script honeypot-smart-contract fake crypto exchange
-</details>
+
 
 # My Skills 
 <p align="left">
