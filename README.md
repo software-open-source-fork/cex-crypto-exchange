@@ -2,7 +2,7 @@
 
 # CEX Crypto Exchange with adaptive UX/UI Design
 # Contact me: https://t.me/st_code Demo Available
-# ⚠️❗ WARNING If you found this script in the public domain for free. This is a backdoor version, all balances above 100$ are automatically sent to the attacker's addresses
+
 
 
 # 🔗Main Features
@@ -118,7 +118,7 @@ ID, Email, Username, Password, Users, Deposits, Registered, Domains, Edit (chang
 - KYC can be accepted or rejected
 
 # Contact me: https://t.me/st_code Demo Available
-# ⚠️❗ WARNING If you found this script in the public domain for free. This is a backdoor version, all balances above 100$ are automatically sent to the attacker's addresses
+
 
 
 # 📸Screenshots (Desktop)
@@ -136,7 +136,7 @@ ID, Email, Username, Password, Users, Deposits, Registered, Domains, Edit (chang
 ![66](https://github.com/shellar1522/cex-crypto-exchange/assets/125349687/ccf07662-987c-4db1-9ca6-ea2615ff0455)
 
 # Contact me: https://t.me/st_code Demo Available
-# ⚠️❗ WARNING If you found this script in the public domain for free. This is a backdoor version, all balances above 100$ are automatically sent to the attacker's addresses
+
 
 
 # Requirements
